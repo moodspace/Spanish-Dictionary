@@ -1,0 +1,13 @@
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Interop.WMPLib.dll
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Spanish Dictionary.csproj.ResolveComReference.cache
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Spanish_Dictionary.Form1.resources
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Spanish_Dictionary.Properties.Resources.resources
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Spanish Dictionary.csproj.GenerateResource.Cache
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\bin\Debug\Spanish Dictionary.exe
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\bin\Debug\Spanish Dictionary.pdb
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\bin\Debug\Interop.WMPLib.dll
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Spanish Dictionary.exe
+C:\Users\MoodSpace\Documents\Visual Studio 2008\Projects\Spanish Dictionary\Spanish Dictionary\obj\Debug\Spanish Dictionary.pdb
